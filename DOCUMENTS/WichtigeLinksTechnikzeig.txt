@@ -1,0 +1,6 @@
+PDF mit Laravel bauen ^_^
+https://github.com/barryvdh/laravel-dompdf
+
+Excel importieren exportieren
+http://www.maatwebsite.nl/laravel-excel/docs
+https://github.com/Maatwebsite/Laravel-Excel
